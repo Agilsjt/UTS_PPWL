@@ -110,6 +110,12 @@
                                 <p>
                                     @copyright <a href="#"><strong>Bujang Inam</strong></a>
                                 </p>
+                                <p>
+                                    Agil Sujito, Muhammad Roihan, Habibi Januarta
+                                </p>
+                                <p>
+                                    H1101231028, H1101231032, H1101231046
+                                </p>
                             </div>
                         </div>
                     </div>
